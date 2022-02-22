@@ -32,7 +32,7 @@ label.setFont(font)
 logo = QtWidgets.QLabel(window)
 logo.setGeometry(QtCore.QRect(0, 23, 900, 151))
 logo.setText("")
-logo.setPixmap(QtGui.QPixmap("C:/Users/Satya Pal/Desktop/2021-09-29 (2)"))
+logo.setPixmap(QtGui.QPixmap("img.jpeg"))
 logo.setAlignment(QtCore.Qt.AlignCenter)
 logo.setIndent(-1)
 
