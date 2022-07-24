@@ -1,4 +1,4 @@
-![test](2022-04-09 (1).png)
+![test](img1.png)
 
 Install PyQt5 first & mysql.
 
